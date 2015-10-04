@@ -5,4 +5,4 @@ It is not a module/plugin but you can integrate this easily with your existing p
 
 **Here is a [demo](http://codepen.io/rakib/pen/ZbzVme)**
 
-This project was started out my [reddit](https://www.reddit.com/r/jquery/comments/3in83x/i_made_a_simple_jquery_dropdown_things_and_need/) post!
+This project was started from my [reddit](https://www.reddit.com/r/jquery/comments/3in83x/i_made_a_simple_jquery_dropdown_things_and_need/) post!
